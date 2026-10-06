@@ -32,3 +32,26 @@ This repository will contain my work and projects completed as part of ME4325, i
 - Design work
 - Laboratory work
 - Other relevant engineering activities
+
+- ## ME4325 Assignment Schedule
+
+- [ ] Task 1 – Create GitHub repository and portfolio README
+- [ ] Task 2 – Create assignment checklist and organise directories
+- [ ] Task 3 – 
+- [ ] Task 4 – 
+- [ ] Task 5 –
+
+## Work Logs
+
+- [ ] Week 1 Work Log
+- [ ] Week 2 Work Log
+- [ ] Week 3 Work Log
+- [ ] Week 4 Work Log
+- [ ] Week 5 Work Log
+- [ ] Week 6 Work Log
+- [ ] Week 7 Work Log
+- [ ] Week 8 Work Log
+- [ ] Week 9 Work Log
+- [ ] Week 10 Work Log
+- [ ] Week 11 Work Log
+- [ ] Week 12 Work Log
